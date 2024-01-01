@@ -1,7 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Rushikesh Narawade</h1>
 
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
-
+![github_cover_banner]("C:\Users\Lenovo\OneDrive\Documents\web_development\img\3d-casual-life-man-chatting-remotely-with-female-colleague.png")
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
   Highly motivated, dynamic, Enthusiastic and detail-oriented Computer Science seeking an entry-level position to 
 apply academic knowledge and hands-on skills in software development. Eager to contribute to innovative projects, 
